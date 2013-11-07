@@ -42,14 +42,14 @@ if ( !empty($withcomments) && !is_single() ) {
 		<!-- Logo Starts -->
 			<div id="logo">
 				<h1>
-						<a href="http://lata.handwovenrecords.com">
+						<a href="http://www.lataweb.com">
 						<span>LATA</span>
 					</a>
 				</h1>
 			</div>
 		<!-- Logo Ends -->
 			<div id="flickrholdr">
-				<a href="http://lata.handwovenindustries.com"><img src="<?php bloginfo('template_directory'); ?>/images/scoreblogtitle-titillium.png" /></a>
+				<a href="http://www.lataweb.com"><img src="<?php bloginfo('template_directory'); ?>/images/scoreblogtitle-titillium.png" /></a>
 			</div>
 		</div>
 	<!-- Header Top Ends -->
@@ -67,12 +67,12 @@ if ( !empty($withcomments) && !is_single() ) {
 		<div id="menublog">
 		<!-- Menu Items Starts -->
 			<ul>
-				<li><a href="http://lata.handwovenrecords.com">Home</a></li>
-				<li><a href="http://lata.handwovenrecords.com/pages/membership">Services</a></li>
-				<li><a href="http://lata.handwovenrecords.com/pages/tournaments">Tournaments</a></li>
-				<li><a href="http://lata.handwovenrecords.com/events">Calendar</a></li>
-				<li><a href="http://lata.handwovenrecords.com/pages/faq">FAQ</a></li>
-				<li><a href="http://lata.handwovenrecords.com/contact">Contact Us</a></li>
+				<li><a href="http://www.lataweb.com">Home</a></li>
+				<li><a href="http://www.lataweb.com/pages/membership">Services</a></li>
+				<li><a href="http://www.lataweb.com/pages/tournaments">Tournaments</a></li>
+				<li><a href="http://www.lataweb.com/events">Calendar</a></li>
+				<li><a href="http://www.lataweb.com/pages/faq">FAQ</a></li>
+				<li><a href="http://www.lataweb.com/contact">Contact Us</a></li>
 			</ul>
 		<!-- Menu Items Ends -->
 		</div>
